@@ -145,8 +145,8 @@ uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 streamlit run ui/streamlit_app.py
 ```
 
-- 📄 API docs → http://127.0.0.1:8000/docs
-- 💬 Chat UI → http://localhost:8501
+- 📄 API docs → https://agentic-chatbot-qwjr.onrender.com
+- 💬 Chat UI → https://agentic-chatbot-wo0m.onrender.com
 
 ---
 
